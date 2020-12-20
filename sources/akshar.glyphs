@@ -11126,23 +11126,9 @@ rightMetricsKey = "=a";
 },
 {
 glyphname = "aShort-deva";
-lastChange = "2020-12-12 00:55:50 +0000";
+lastChange = "2020-12-20 17:37:48 +0000";
 layers = (
 {
-anchors = (
-{
-name = bottom;
-position = "{567, 0}";
-},
-{
-name = candra;
-position = "{333, 630}";
-},
-{
-name = top;
-position = "{563, 630}";
-}
-);
 components = (
 {
 name = "a-deva";
@@ -11150,27 +11136,13 @@ name = "a-deva";
 {
 alignment = -1;
 name = "eShortMatra-deva";
-transform = "{1, 0, 0, 1, 329, 0}";
+transform = "{1, 0, 0, 1, 279, 0}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
 width = 587;
 },
 {
-anchors = (
-{
-name = bottom;
-position = "{667, 0}";
-},
-{
-name = candra;
-position = "{402, 660}";
-},
-{
-name = top;
-position = "{667, 660}";
-}
-);
 components = (
 {
 name = "a-deva";
@@ -11178,7 +11150,7 @@ name = "a-deva";
 {
 alignment = -1;
 name = "eShortMatra-deva";
-transform = "{1, 0, 0, 1, 349, 0}";
+transform = "{1, 0, 0, 1, 322, 0}";
 }
 );
 layerId = "5EDCAC97-4996-4925-B8D9-EA484E9BADFC";
@@ -11351,13 +11323,13 @@ subCategory = Matra;
 },
 {
 glyphname = "aa-deva";
-lastChange = "2020-12-12 00:55:50 +0000";
+lastChange = "2020-12-20 17:33:24 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{741, 0}";
+position = "{683, 0}";
 },
 {
 name = candra;
@@ -11369,7 +11341,7 @@ position = "{220, -102}";
 },
 {
 name = top;
-position = "{711, 630}";
+position = "{683, 630}";
 }
 );
 components = (
@@ -11396,7 +11368,7 @@ position = "{538, 660}";
 },
 {
 name = nukta;
-position = "{1055, 0}";
+position = "{187, -116}";
 },
 {
 name = top;
@@ -12514,7 +12486,7 @@ unicode = 0911;
 },
 {
 glyphname = "oShort-deva";
-lastChange = "2020-12-12 00:55:50 +0000";
+lastChange = "2020-12-20 17:33:25 +0000";
 layers = (
 {
 anchors = (
@@ -12537,7 +12509,7 @@ name = "aa-deva";
 },
 {
 name = "eShortMatra-deva";
-transform = "{1, 0, 0, 1, 497, 0}";
+transform = "{1, 0, 0, 1, 469, 0}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
@@ -12578,7 +12550,7 @@ subCategory = Matra;
 },
 {
 glyphname = "o-deva";
-lastChange = "2020-12-12 00:55:50 +0000";
+lastChange = "2020-12-20 17:33:12 +0000";
 layers = (
 {
 anchors = (
@@ -12601,7 +12573,7 @@ name = "aa-deva";
 },
 {
 name = "eMatra-deva";
-transform = "{1, 0, 0, 1, 410, 0}";
+transform = "{1, 0, 0, 1, 382, 0}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
@@ -12702,7 +12674,7 @@ width = 1068;
 },
 {
 glyphname = "au-deva";
-lastChange = "2020-12-12 00:55:50 +0000";
+lastChange = "2020-12-20 17:33:25 +0000";
 layers = (
 {
 anchors = (
@@ -12725,7 +12697,7 @@ name = "aa-deva";
 },
 {
 name = "aiMatra-deva";
-transform = "{1, 0, 0, 1, 380, 0}";
+transform = "{1, 0, 0, 1, 352, 0}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
@@ -12870,7 +12842,7 @@ subCategory = Matra;
 },
 {
 glyphname = "aw-deva";
-lastChange = "2020-12-12 00:55:50 +0000";
+lastChange = "2020-12-20 17:33:25 +0000";
 layers = (
 {
 components = (
@@ -12879,7 +12851,7 @@ name = "aa-deva";
 },
 {
 name = "awwMatra-deva";
-transform = "{1, 0, 0, 1, 413, -5}";
+transform = "{1, 0, 0, 1, 385, -5}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
