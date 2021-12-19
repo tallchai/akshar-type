@@ -21,5 +21,6 @@ by providing the all the weight variations through a single font file.
 ![Akshar OpenType](/images/Akshar%20OpenType.jpg)
 ![Akshar 99](/images/Akshar%2099.jpg)
 ![Akshar Default](/images/Akshar%20Default.jpg)
+![Akshar Characters](/images/Akshar%20Characters.jpg)
 
 To contribute, make requests or log issues, visit the [tallchai/akshar-type](https://github.com/tallchai/akshar-type") repository.
