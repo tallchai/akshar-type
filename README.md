@@ -16,7 +16,6 @@ by providing the all the weight variations through a single font file.
 ![Akshar Intro](/images/Akshar%20Intro.jpg)
 ![Akshar Weights](/images/Akshar%20Weights.jpg)
 ![Akshar Weights: High Contrast](/images/Akshar%20Weights%20HC.jpg)
-![Akshar Variable](/images/Akshar%20Variable.jpg)
 ![Akshar Headlines](/images/Akshar%20Headlines.jpg)
 ![Akshar Headlines EN](/images/Akshar%20Headlines%20EN.jpg)
 ![Akshar OpenType](/images/Akshar%20OpenType.jpg)
