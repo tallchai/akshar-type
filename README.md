@@ -8,7 +8,7 @@ Akshar (Hindi: अक्षर) literally means an alphabet or a letter in Hindi
 
 ## OpenType Variable
 Akshar is an OpenType Variable Font. It offers 2 axes: Weight (`wght`) and Contrast (`cntr`).
-The Weight axis ranges from 300 to 700. The Contrast axis ranges from 0 to 100.
+The **Weight** axis ranges from 300 to 700. The **Contrast** axis ranges from 0 to 100.
 Not only does this enable a wide array of display possibilities but also provides performance efficiency
 by providing the all the weight variations through a single font file.
 
