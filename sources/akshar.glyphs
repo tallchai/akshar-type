@@ -42,7 +42,7 @@ code = "iMatra_anusvara-deva iMatra_anusvara-deva.00 iMatra_anusvara-deva.01 iMa
 name = DevaIMatraAnusvaras;
 }
 );
-copyright = "Copyright 2020 The Akshar Project Authors (https://github.com/tallchai/akshar-type)";
+copyright = "Copyright 2020 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)";
 customParameters = (
 {
 name = license;
