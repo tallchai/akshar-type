@@ -1,10 +1,7 @@
 sources:
-  - akshar.glyphs
-axisOrder:
-    - wght
-    - cntr
+  - Akshar.glyphs
 outputDir: "../fonts"
-buildStatic: true
+buildStatic: false
 buildVariable: true
 buildTTF: true
 buildOTF: false

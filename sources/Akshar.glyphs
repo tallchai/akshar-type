@@ -1,5 +1,8 @@
 {
-.appVersion = "1342";
+.appVersion = "1352";
+DisplayStrings = (
+"/dottedCircle"
+);
 classes = (
 {
 automatic = 1;
@@ -42,7 +45,7 @@ code = "iMatra_anusvara-deva iMatra_anusvara-deva.00 iMatra_anusvara-deva.01 iMa
 name = DevaIMatraAnusvaras;
 }
 );
-copyright = "Copyright 2020 The Akshar Project Authors (https://github.com/tallchai/akshar-type)";
+copyright = "Copyright 2020 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)";
 customParameters = (
 {
 name = license;
@@ -70,7 +73,7 @@ Tag = wght;
 },
 {
 Name = Contrast;
-Tag = cntr;
+Tag = CNTR;
 }
 );
 },
@@ -472,6 +475,7 @@ GSOffsetVertical = 21;
 verticalStems = (
 66
 );
+visible = 1;
 weight = Light;
 weightValue = 300;
 xHeight = 500;
@@ -548,6 +552,7 @@ GSCornerRadius = 30;
 verticalStems = (
 166
 );
+visible = 1;
 weight = Bold;
 weightValue = 700;
 xHeight = 520;
@@ -101930,9 +101935,19 @@ subCategory = Other;
 },
 {
 glyphname = dottedCircle;
-lastChange = "2022-02-07 23:12:54 +0000";
+lastChange = "2022-03-22 12:23:51 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{261, 0}";
+},
+{
+name = top;
+position = "{259, 630}";
+}
+);
 components = (
 {
 name = period;
@@ -101987,6 +102002,16 @@ layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
 width = 499;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{334, 0}";
+},
+{
+name = top;
+position = "{338, 670}";
+}
+);
 components = (
 {
 name = period;
@@ -102041,6 +102066,16 @@ layerId = "5EDCAC97-4996-4925-B8D9-EA484E9BADFC";
 width = 641;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{340, 0}";
+},
+{
+name = top;
+position = "{337, 660}";
+}
+);
 components = (
 {
 name = period;
@@ -102095,6 +102130,16 @@ layerId = "79308226-C67D-4E5D-B2BB-40C77DA13664";
 width = 641;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{262, 0}";
+},
+{
+name = top;
+position = "{257, 630}";
+}
+);
 components = (
 {
 name = period;
