@@ -1,3 +1,6 @@
+# Fail fast
+set -e
+
 # Build font
 gftools builder sources/builder.yaml
 
