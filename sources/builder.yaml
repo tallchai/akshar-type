@@ -2,7 +2,7 @@ sources:
   - akshar.glyphs
 axisOrder:
     - wght
-    - cntr
+    - CNTR
 outputDir: "../fonts"
 buildStatic: true
 buildVariable: true
