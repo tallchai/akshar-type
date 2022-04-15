@@ -47,6 +47,7 @@ lookup cjct_Halfdevanagari {
 	sub d-deva y-deva by d_y-deva;
 } cjct_Halfdevanagari;
 lookup cjct_devanagari {
+	sub aa-deva candraBindu-deva by aa_candraBindu-deva;
 	sub b-deva ba-deva by b_ba-deva;
 	sub b-deva va-deva by b_va-deva;
 	sub c-deva ca-deva by c_ca-deva;
@@ -112,6 +113,7 @@ lookup cjct_devanagari {
 	sub th-deva va-deva by th_va-deva;
 	sub tt-deva tta-deva by tt_tta-deva;
 	sub tt-deva ttha-deva by tt_ttha-deva;
+	sub tt-deva va-deva by tt_va-deva;
 	sub tt-deva ya-deva by tt_ya-deva;
 	sub tth-deva ya-deva by tth_ya-deva;
 	sub tt_ra-deva uuMatra-deva by tt_ra_uuMatra-deva;
