@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1352";
 classes = (
 {
 automatic = 1;
@@ -256,11 +256,11 @@ value = "630";
 },
 {
 name = typoAscender;
-value = 990;
+value = 900;
 },
 {
 name = typoDescender;
-value = -300;
+value = -200;
 },
 {
 name = winAscent;
@@ -268,23 +268,23 @@ value = 990;
 },
 {
 name = winDescent;
-value = 300;
+value = 306;
 },
 {
 name = hheaAscender;
-value = 990;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -300;
+value = -200;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 150;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 150;
 }
 );
 descender = -200;
@@ -335,43 +335,43 @@ capHeight = 720;
 customParameters = (
 {
 name = smallCapHeight;
-value = 660;
+value = 630;
 },
 {
 name = shoulderHeight;
-value = "660";
+value = "630";
 },
 {
 name = typoAscender;
-value = 1200;
+value = 900;
 },
 {
 name = typoDescender;
-value = -420;
+value = -200;
 },
 {
 name = winAscent;
-value = 1200;
+value = 990;
 },
 {
 name = winDescent;
-value = 420;
+value = 306;
 },
 {
 name = hheaAscender;
-value = 1200;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -420;
+value = -200;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 150;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 150;
 }
 );
 descender = -200;
@@ -424,11 +424,11 @@ value = "630";
 },
 {
 name = typoAscender;
-value = 990;
+value = 900;
 },
 {
 name = typoDescender;
-value = -300;
+value = -200;
 },
 {
 name = winAscent;
@@ -436,23 +436,23 @@ value = 990;
 },
 {
 name = winDescent;
-value = 300;
+value = 306;
 },
 {
 name = hheaAscender;
-value = 990;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -300;
+value = -200;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 150;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 150;
 }
 );
 descender = -200;
@@ -504,43 +504,43 @@ custom = Contrast;
 customParameters = (
 {
 name = smallCapHeight;
-value = 660;
+value = 630;
 },
 {
 name = shoulderHeight;
-value = "660";
+value = "630";
 },
 {
 name = typoAscender;
-value = 1200;
+value = 900;
 },
 {
 name = typoDescender;
-value = -420;
+value = -200;
 },
 {
 name = winAscent;
-value = 1200;
+value = 990;
 },
 {
 name = winDescent;
-value = 420;
+value = 306;
 },
 {
 name = hheaAscender;
-value = 1200;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -420;
+value = -200;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 150;
 },
 {
 name = hheaLineGap;
-value = 0;
+value = 150;
 }
 );
 descender = -200;
