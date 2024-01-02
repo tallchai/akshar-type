@@ -1,7 +1,7 @@
 sources:
   - Akshar.glyphs
 outputDir: "../fonts"
-buildStatic: false
+buildStatic: true
 buildVariable: true
 buildTTF: true
 buildOTF: false
