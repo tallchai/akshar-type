@@ -2,7 +2,7 @@
 For new features or in case of bugs, please log an issue on the [tallchai/akshar-type](https://github.com/tallchai/akshar-type) repo.
 
 ## GlyphsApp
-Akshar was built with [GlyphsApp](https://glyphsapp.com/) Version 2, a popular font development tool.
+Akshar was built with [GlyphsApp](https://glyphsapp.com/), a popular font development tool.
 To contribute, you will need a Macbook and a licensed copy of GlyphsApp.
 
 ## Devanagari Conjuncts

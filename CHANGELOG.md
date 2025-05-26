@@ -1,7 +1,7 @@
 # CHANGELOG
 ## 2.0.0
-- Updated Contrast (`cntr`) axis to be Parametric Thin Stroke (`YOPQ`) axis
-- Updated build to have the Parametric Thin Stroke (`YOPQ`) axis available
+- Updated Contrast (`cntr`) axis to the proposed Contrast (`CTRA`) axis
+- Updated build to have the proposed Contrast (`CTRA`) axis available
 
 ## 1.1.0
 - Improved Spacing & Kerning: specifically for standard ligatures
