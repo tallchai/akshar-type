@@ -3,4 +3,4 @@ set -e
 
 # Build font
 gftools builder sources/builder.yaml
-fonttools varLib.instancer -o "fonts/variable/Akshar[CTRA,wght].ttf"
+fonttools varLib.instancer -o "fonts/variable/Akshar[CTRS,wght].ttf"
