@@ -1,11 +1,18 @@
 # CHANGELOG
 
+## 2.1.0
+
+- Added missing Latin extended glyphs
+- Fixed Devanagari matra rendering for some conjuncts
+
+## 2.0.1
+
+- Added missing variable font
+
 ## 2.0.0
 
 - Updated Contrast (`cntr`) axis to the proposed Contrast (`CTRS`) axis
 - Updated build to have the proposed Contrast (`CTRS`) axis available
-- Added missing Latin extended glyphs
-- Fixed Devanagari matra rendering for some conjuncts
 
 ## 1.1.0
 
