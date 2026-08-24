@@ -65,6 +65,19 @@ value = (
 );
 },
 {
+name = "Axis Entries";
+value = (
+{
+Name = Weight;
+Tag = wght;
+},
+{
+Name = Contrast;
+Tag = CTRS;
+}
+);
+},
+{
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
@@ -494,7 +507,6 @@ verticalStems = (
 visible = 1;
 weight = Light;
 weightValue = 300;
-widthValue = 60;
 xHeight = 500;
 },
 {
@@ -577,7 +589,6 @@ verticalStems = (
 visible = 1;
 weight = Bold;
 weightValue = 700;
-widthValue = 60;
 xHeight = 520;
 }
 );
@@ -92079,7 +92090,7 @@ name = "sa-deva.ss05";
 {
 alignment = -1;
 name = "rakar-deva";
-transform = "{0.9026, -0.03719, -0.06187, 0.83004, 211, 120}";
+transform = "{0.9026, -0.03719, -0.05672, 0.82749, 211, 120}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
@@ -92121,7 +92132,7 @@ name = "sa-deva.ss05";
 {
 alignment = -1;
 name = "rakar-deva";
-transform = "{0.9026, -0.03719, -0.06187, 0.83004, 246, 144}";
+transform = "{0.9026, -0.03719, -0.05672, 0.82749, 246, 144}";
 }
 );
 layerId = "F80F23F5-B815-46C8-A0F2-25F52E1E7134";
@@ -130310,6 +130321,19 @@ instances = (
 {
 customParameters = (
 {
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Contrast;
+Location = 0;
+}
+);
+},
+{
 name = postscriptFontName;
 value = "Akshar-Light";
 }
@@ -130325,6 +130349,19 @@ weightClass = Light;
 {
 customParameters = (
 {
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Contrast;
+Location = 0;
+}
+);
+},
+{
 name = postscriptFontName;
 value = "Akshar-Regular";
 }
@@ -130339,6 +130376,19 @@ name = Regular;
 },
 {
 customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Contrast;
+Location = 0;
+}
+);
+},
 {
 name = postscriptFontName;
 value = "Akshar-Medium";
@@ -130356,6 +130406,19 @@ weightClass = Medium;
 {
 customParameters = (
 {
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Contrast;
+Location = 0;
+}
+);
+},
+{
 name = postscriptFontName;
 value = "Akshar-SemiBold";
 }
@@ -130372,6 +130435,19 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Contrast;
+Location = 0;
+}
+);
+},
+{
 name = postscriptFontName;
 value = "Akshar-Bold";
 }
@@ -130383,85 +130459,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
-weightClass = Bold;
-},
-{
-customParameters = (
-{
-name = postscriptFontName;
-value = "Akshar-ContrastLight";
-}
-);
-interpolationWeight = 300;
-interpolationWidth = 60;
-instanceInterpolations = {
-"F80F23F5-B815-46C8-A0F2-25F52E1E7134" = 1;
-};
-name = "Contrast Light";
-weightClass = Light;
-},
-{
-customParameters = (
-{
-name = postscriptFontName;
-value = "Akshar-ContrastRegular";
-}
-);
-interpolationWeight = 400;
-interpolationWidth = 60;
-instanceInterpolations = {
-"79308226-C67D-4E5D-B2BB-40C77DA13664" = 0.25;
-"F80F23F5-B815-46C8-A0F2-25F52E1E7134" = 0.75;
-};
-name = "Contrast Regular";
-},
-{
-customParameters = (
-{
-name = postscriptFontName;
-value = "Akshar-ContrastMedium";
-}
-);
-interpolationWeight = 500;
-interpolationWidth = 60;
-instanceInterpolations = {
-"79308226-C67D-4E5D-B2BB-40C77DA13664" = 0.5;
-"F80F23F5-B815-46C8-A0F2-25F52E1E7134" = 0.5;
-};
-name = "Contrast Medium";
-weightClass = Medium;
-},
-{
-customParameters = (
-{
-name = postscriptFontName;
-value = "Akshar-ContrastSemiBold";
-}
-);
-interpolationWeight = 600;
-interpolationWidth = 60;
-instanceInterpolations = {
-"79308226-C67D-4E5D-B2BB-40C77DA13664" = 0.75;
-"F80F23F5-B815-46C8-A0F2-25F52E1E7134" = 0.25;
-};
-name = "Contrast SemiBold";
-weightClass = SemiBold;
-},
-{
-customParameters = (
-{
-name = postscriptFontName;
-value = "Akshar-ContrastBold";
-}
-);
-interpolationWeight = 700;
-interpolationWidth = 60;
-instanceInterpolations = {
-"79308226-C67D-4E5D-B2BB-40C77DA13664" = 1;
-};
-isBold = 1;
-linkStyle = "Contrast Regular";
-name = "Contrast Bold";
 weightClass = Bold;
 }
 );
