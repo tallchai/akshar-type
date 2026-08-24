@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2.2.0
+
+- Added missing Latin extended glyphs
+- Fixed Devanagari matra rendering for some conjuncts
+
 ## 2.1.0
 
 - Added missing Latin extended glyphs
