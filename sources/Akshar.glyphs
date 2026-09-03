@@ -1,10 +1,5 @@
 {
 .appVersion = "3436";
-DisplayStrings = (
-"/lla_ra-deva",
-"/dd_ra-deva/dddha_ra-deva",
-"/ddha-deva/ddha_ra-deva/ddh_ra-deva"
-);
 classes = (
 {
 automatic = 1;
@@ -81,11 +76,11 @@ Tag = CTRS;
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 },
 {
 name = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 name = Axes;
@@ -92285,7 +92280,7 @@ name = "sa-deva.ss05";
 {
 alignment = -1;
 name = "rakar-deva";
-transform = "{0.9026, -0.03719, -0.05185, 0.82515, 211, 120}";
+transform = "{0.9026, -0.03719, -0.04728, 0.82301, 211, 120}";
 }
 );
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
@@ -92327,7 +92322,7 @@ name = "sa-deva.ss05";
 {
 alignment = -1;
 name = "rakar-deva";
-transform = "{0.9026, -0.03719, -0.05185, 0.82515, 246, 144}";
+transform = "{0.9026, -0.03719, -0.04728, 0.82301, 246, 144}";
 }
 );
 layerId = "F80F23F5-B815-46C8-A0F2-25F52E1E7134";
@@ -101131,7 +101126,7 @@ unicode = 002A;
 },
 {
 glyphname = numbersign;
-lastChange = "2022-02-08 22:23:42 +0000";
+lastChange = "2026-09-03 01:30:44 +0000";
 layers = (
 {
 layerId = "EA4BDF10-EAD0-47D5-9AD5-B8C643A094C2";
@@ -101232,6 +101227,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"530 206 LINE",
+"544 272 LINE",
+"64 272 LINE",
+"50 206 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "219 31 LINE",
 "361 631 LINE",
 "235 631 LINE",
@@ -101245,15 +101249,6 @@ nodes = (
 "587 455 LINE",
 "107 455 LINE",
 "93 389 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"530 206 LINE",
-"544 272 LINE",
-"64 272 LINE",
-"50 206 LINE"
 );
 }
 );
@@ -101274,6 +101269,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"490 221 LINE",
+"497 257 LINE",
+"57 257 LINE",
+"50 221 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
 "161 31 LINE",
 "303 631 LINE",
 "237 631 LINE",
@@ -101287,15 +101291,6 @@ nodes = (
 "541 440 LINE",
 "101 440 LINE",
 "94 404 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"490 221 LINE",
-"497 257 LINE",
-"57 257 LINE",
-"50 221 LINE"
 );
 }
 );
